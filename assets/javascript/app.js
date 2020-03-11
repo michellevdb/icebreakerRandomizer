@@ -248,7 +248,14 @@ var questions = [
     'If you had to choose one cartoon character to be your best friend, what character would you choose?',
     'Imagine you owned a five star restaurant. What would you serve and what would the name of the restaurant be?',
     'If you could have any animal as a tame pet, what would you choose?',
-    'If you had one million dollars to build anything you wanted, what would you build and why?'
+    'If you had one million dollars to build anything you wanted, what would you build and why?',
+    'What\'s the best piece of advice you\'ve ever been given?',
+    'You have your own late night talk show, who do you invite as your first guest?',
+    'If you had to teach a class on one thing, what would you teach?',
+    'If you could be immortal, what age would you choose to stop aging at and why?',
+    'Would you rather be the funniest or smartest person in the room?',
+    'In your opinion, what is the most beautiful place on earth?',
+    'What is the most extreme thing you have ever done?'
 
 
 ]
